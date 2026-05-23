@@ -1,1 +1,1 @@
-# PARTO DE LA MISMA BASE Y PONGO ESTO
+# Parto de la misma base (o sea no habia nada) y pong
